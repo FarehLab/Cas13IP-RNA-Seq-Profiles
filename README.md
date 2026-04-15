@@ -7,6 +7,7 @@
 ## Preprint
 
 > **CRISPR-Cas13 Localises Within RNA-Rich Condensates To Drive RNA Recognition and Cleavage** *pending TBC*
+> 
 > Gurjeet Kaur Gill Jagjeet Singh, Wenxin Hu, Carolyn Shembrey, Adrian Hodel, Ilia Viskoboinik, Paul McMillan, Joseph Trapani, Mohamed Fareh
 > *bioRxiv* (in preparation)
 > DOI: *pending* 
@@ -16,7 +17,7 @@
 
 ## About
 
-This repository contains differential expression data from RNA immunoprecipitation sequencing (RIP-Seq) experiments characterising the RNA association profile of _Psp_Cas13b across subcellular fractions in HEK293T cells. Data are provided as processed differential expression tables and can be explored interactively via the link above. Additionally, the raw count matrix has been provided along with the factor data in COUNTDATA.xlsx
+This repository contains differential expression data from RNA immunoprecipitation sequencing (RIP-Seq) experiments characterising the RNA association profile of PspCas13b across subcellular fractions in HEK293T cells. Data are provided as processed differential expression tables and can be explored interactively via the link above. Additionally, the raw count matrix has been provided along with the factor data in COUNTDATA.xlsx
 
 All experiments were performed at the **Peter MacCallum Cancer Centre**, Melbourne, Australia.
 
