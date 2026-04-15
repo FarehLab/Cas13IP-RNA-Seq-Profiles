@@ -131,8 +131,11 @@ All data are embedded client-side — no server required.
 ## Affiliations
 
 ¹ Peter MacCallum Cancer Centre, Melbourne 3000, Australia
+
 ² Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville 3052, Australia
+
 ³ Department of Biology, Institute of Molecular Health Sciences, ETH Zürich, Zürich, Switzerland
+
 ⁴ Biological Optical Microscopy Platform (BOMP), University of Melbourne, Parkville, Victoria, Australia
 
 ---
