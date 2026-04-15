@@ -137,7 +137,7 @@ All data are embedded client-side — no server required.
 
 If you use this data, please cite:
 
-> Gill Jagjeet Singh GK, Hu W, Shembrey C, Hodel A, Viskoboinik I, McMillan P, Trapani J, Fareh M. CRISPR-Cas13 Localises Within RNA-Rich Condensates To Drive RNA Recognition and Cleavage. *bioRxiv* (in preparation).
+> Jagjeet Singh GKG, Hu W, Shembrey C, Hodel A, Viskoboinik I, McMillan P, Trapani J, Fareh M. CRISPR-Cas13 Localises Within RNA-Rich Condensates To Drive RNA Recognition and Cleavage. *bioRxiv* (in preparation).
 
 ---
 
