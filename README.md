@@ -48,6 +48,7 @@ Cas13IP-RNA-Seq-Profiles/
 ## Experimental Design
 
 12 samples across 4 conditions, 3 biological replicates each:
+*Sample Type nmbering reflect data in countmatrix. 
 
 | Sample Type | Label | Description |
 |---|---|---|
