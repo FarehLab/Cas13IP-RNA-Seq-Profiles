@@ -8,7 +8,7 @@
 
 > **CRISPR-Cas13 Localises Within RNA-Rich Condensates To Drive RNA Recognition and Cleavage** *pending TBC*
 > 
-> Gurjeet Kaur Gill Jagjeet Singh <sup>1,2</sup>, Wenxin Hu, Carolyn Shembrey, Adrian Hodel, Ilia Viskoboinik, Paul McMillan, Joseph Trapani, Mohamed Fareh
+> Gurjeet Kaur Gill Jagjeet Singh <sup>1,2</sup>, Wenxin Hu <sup>1,2</sup>, Carolyn Shembrey <sup>1,2,3</sup>, Adrian Hodel <sup>1,2</sup>, Ilia Viskoboinik <sup>1,2</sup>, Paul McMillan <sup>4</sup>, Joseph Trapani <sup>1,2</sup>, Mohamed Fareh <sup>1,2</sup>
 > 
 > *bioRxiv* (in preparation)
 > 
@@ -17,11 +17,6 @@
 > Correspondence: Mohamed.fareh@petermac.org
 >
 > ---
-
-
-Syntax: Your text<sup>superscript</sup>
-Example: E = mc<sup>2</sup> renders as E = mc²
-
 
 ## Affiliations
 
@@ -32,9 +27,6 @@ Example: E = mc<sup>2</sup> renders as E = mc²
 ³ Department of Biology, Institute of Molecular Health Sciences, ETH Zürich, Zürich, Switzerland
 
 ⁴ Biological Optical Microscopy Platform (BOMP), University of Melbourne, Parkville, Victoria, Australia
-
----
-
 
 ---
 
