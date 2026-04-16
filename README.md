@@ -16,7 +16,6 @@
 > 
 > Correspondence: Mohamed.fareh@petermac.org
 >
-> ---
 
 ## Affiliations
 
