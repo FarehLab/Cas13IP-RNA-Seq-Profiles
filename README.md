@@ -48,7 +48,6 @@ Cas13IP-RNA-Seq-Profiles/
 ## Experimental Design
 
 12 samples across 4 conditions, 3 biological replicates each:
-*Sample Type nmbering reflect data in countmatrix. 
 
 | Sample Type | Label | Description |
 |---|---|---|
@@ -56,6 +55,8 @@ Cas13IP-RNA-Seq-Profiles/
 | Samples 4–6 | **CCEF** | Condensate-enriched cytoplasmic fraction |
 | Samples 7–9 | **Total-IP** | Cytoplasmic Cas13 immunoprecipitation |
 | Samples 10–12 | **CCEF-IP** | Condensate-enriched Cas13 immunoprecipitation |
+
+*Sample Type nmbering reflect data in countmatrix. 
 
 ---
 
