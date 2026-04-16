@@ -8,13 +8,33 @@
 
 > **CRISPR-Cas13 Localises Within RNA-Rich Condensates To Drive RNA Recognition and Cleavage** *pending TBC*
 > 
-> Gurjeet Kaur Gill Jagjeet Singh, Wenxin Hu, Carolyn Shembrey, Adrian Hodel, Ilia Viskoboinik, Paul McMillan, Joseph Trapani, Mohamed Fareh
+> Gurjeet Kaur Gill Jagjeet Singh <sup>1,2</sup>, Wenxin Hu, Carolyn Shembrey, Adrian Hodel, Ilia Viskoboinik, Paul McMillan, Joseph Trapani, Mohamed Fareh
 > 
 > *bioRxiv* (in preparation)
 > 
 > DOI: *pending*
 > 
 > Correspondence: Mohamed.fareh@petermac.org
+>
+> ---
+
+
+Syntax: Your text<sup>superscript</sup>
+Example: E = mc<sup>2</sup> renders as E = mc²
+
+
+## Affiliations
+
+¹ Peter MacCallum Cancer Centre, Melbourne 3000, Australia
+
+² Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville 3052, Australia
+
+³ Department of Biology, Institute of Molecular Health Sciences, ETH Zürich, Zürich, Switzerland
+
+⁴ Biological Optical Microscopy Platform (BOMP), University of Melbourne, Parkville, Victoria, Australia
+
+---
+
 
 ---
 
@@ -127,18 +147,6 @@ The interactive data explorer at https://farehlab.github.io/Cas13IP-RNA-Seq-Prof
 - **Heatmap** — explore top differentially expressed genes across selected datasets, with enriched/depleted split view
 
 All data are embedded client-side — no server required.
-
----
-
-## Affiliations
-
-¹ Peter MacCallum Cancer Centre, Melbourne 3000, Australia
-
-² Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville 3052, Australia
-
-³ Department of Biology, Institute of Molecular Health Sciences, ETH Zürich, Zürich, Switzerland
-
-⁴ Biological Optical Microscopy Platform (BOMP), University of Melbourne, Parkville, Victoria, Australia
 
 ---
 
